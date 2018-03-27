@@ -22,4 +22,6 @@ With no path provided, the script starts from current working directory.
 ## Authors and License
 * Simon Schliesky
 
-This project is released under GPLv3. The full license text can be fund in [LICENSE.md]()
+Copyright 2018 Simon Schliesky.
+
+This program is free software released under GPLv3. That essentially means license is granted for unlimited use, distribution, and modification of the program without warranty as long as all derivatives are available under the same license. For the legally binding complete license text, check [LICENSE.md]().
